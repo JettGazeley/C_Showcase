@@ -1,5 +1,9 @@
 # C_Showcase
 These files were taken from a previous assignmnet in my System Level Programming course to showcase programming abilities in C.
+## wc.c
+This program is crteated in C and reads from the standard input, i.e. keyboard, and counts the number of lines, words, and characters up to the EOF. It mimics the built-in
+Unix/Linux command of wc.
+
 ## echo.c
 For this question, I was tasked with creating a C program named echo.c that emulates the basic functionality of the Linux command echo (ignore the options that you can pass to the real echo command). In other words, the program prints the command-line arguments to standard output separated with a single space. There is no trailing space at the end of the output (unless it is part of a quoted string). There is a newline character after the output, even if there are no command line arguments to print.
 
